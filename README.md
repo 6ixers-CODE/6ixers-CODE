@@ -7,7 +7,7 @@
 
 - road to this: **Web3,Decentralized Servers**
 
-- **🎓 Computer Engineering Student | Passionate about Web Development, Decentralized Servers, and Blockchain 💻 Intermediate in Python and C++ | Currently learning Go and the Gin framework 🚀 Focused on web applications, Web3, and distributed system**
+- **Passionate about Decentralized Servers, and Blockchain 💻 Intermediate in Python and C++ | Currently learning Go and the Gin framework 🚀 Focused on web applications, Web3, and distributed system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/6ixers-CODE](https://github.com/6ixers-CODE)
 
