@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **rooby-app,telegram robots**
 
-- 🌱 I’m currently learning **gin,GOlang,Database**
+- 🌱 learning **gin,GOlang,Database**
 
 - road to this: **Web3,Decentralized Servers**
 
 - **Passionate about Decentralized Servers, and Blockchain 💻 Intermediate in Python and C++ | Currently learning Go and the Gin framework 🚀 Focused on web applications, Web3, and distributed system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/6ixers-CODE](https://github.com/6ixers-CODE)
-
-- 💬 Ask me about **python,Golang**
 
 - 📫 How to reach me **alimaleki67890@gmail.com**
 
